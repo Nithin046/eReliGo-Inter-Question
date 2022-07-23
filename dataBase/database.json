@@ -1,0 +1,81 @@
+{
+  "employee": [
+    {
+      "name": "Arun",
+      "email": "arun.gmail.com",
+      "designation": "Developer",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "Ajayu",
+      "email": "ajay.gmail.com",
+      "designation": "Developer",
+      "status": "Inactive",
+      "id": 2
+    },
+    {
+      "name": "NithinS",
+      "email": "nithin@gmail.com",
+      "designation": "Developer",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "name": "AkiIil",
+      "email": "akil@gmail.com",
+      "designation": "Frount end",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "name": "sdsd",
+      "email": "SDS@ASD.SDSD",
+      "designation": "SDSD",
+      "status": "SDSD",
+      "id": 5
+    },
+    {
+      "name": "Nithya",
+      "email": "ns@gma.com",
+      "designation": "frount",
+      "status": "Inactive",
+      "id": 6
+    },
+    {
+      "name": "Ankitha",
+      "email": "csahj@hcas.com",
+      "designation": "fejw",
+      "status": "kjbs",
+      "id": 7
+    },
+    {
+      "name": "fbka",
+      "email": "cakj@bjkak.csa",
+      "designation": "dsj",
+      "status": "vdjks",
+      "id": 8
+    },
+    {
+      "name": "cewjkl",
+      "email": "jsak@jda.csaijo",
+      "designation": "cjksa",
+      "status": "csa",
+      "id": 9
+    },
+    {
+      "name": "fekh",
+      "email": "dkjs@fjka.chusa",
+      "designation": "bjaks",
+      "status": "cbjka",
+      "id": 10
+    },
+    {
+      "name": "ghcj",
+      "email": "fh@dth",
+      "designation": "ghgh",
+      "status": "jbjkk",
+      "id": 11
+    }
+  ]
+}
